@@ -1,0 +1,11 @@
+{
+  "dashboard": "Dashboard",
+  "settings": "Settings",
+  "logout": "Logout",
+  "email": "Email",
+  "password": "Password",
+  "placeholder_text": "Enter ",
+  "login": "Login",
+  "error": "Error",
+  "success": "Success"
+}

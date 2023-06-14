@@ -1,0 +1,11 @@
+{
+  "dashboard": "Dashboard",
+  "settings": "Pengaturan",
+  "logout": "Keluar",
+  "email": "Email",
+  "password": "Kata Sandi",
+  "placeholder_text": "Masukkan ",
+  "login": "Masuk",
+  "error": "Gagal",
+  "success": "Berhasil"
+}
